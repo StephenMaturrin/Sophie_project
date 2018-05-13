@@ -1,2 +1,1 @@
-# tesis
-Repositorio para la tesis de Ingeniería en Computación
+# NetFI-2
